@@ -1,7 +1,5 @@
 # Cool Frog — Telegram Mini App 
 
-<img src="/images/logo.png" alt="Cool Frog Logo">
-
 A frog-themed clicker / idle game built as a Telegram Web App using React, TypeScript and Vite.
 
 This README is aimed at developers: it explains how the app is organized, how to run and build it, how Telegram integration works, and practical guidance for extending and deploying the project.
